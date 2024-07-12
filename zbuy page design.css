@@ -1,0 +1,24 @@
+#heading {
+    font-size: 70px;
+    text-decoration: underline;
+    font-weight: 900;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 87%;
+    padding: 70px 100px;
+    background: rgb(0, 0, 0);
+    text-align:justify;
+}
+.nike{
+    color: white;
+}
+#swoosh{
+    position: absolute;
+    left: 1000px;
+    top: 40px;
+    z-index: 1; 
+    width: 260px; 
+    height: 260px;
+    object-fit:contain;
+}
